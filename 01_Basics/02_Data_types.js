@@ -1,4 +1,4 @@
-//"use strict"
+//"use strict" - It is exception case.
 "use strict" //That is using new code of javascript
 
 //Code readability
